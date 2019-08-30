@@ -4,7 +4,7 @@
 #
 Name     : mvn-wildfly-openssl
 Version  : 1.0.4.final
-Release  : 3
+Release  : 4
 URL      : https://github.com/wildfly/wildfly-openssl/archive/1.0.4.Final.tar.gz
 Source0  : https://github.com/wildfly/wildfly-openssl/archive/1.0.4.Final.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/wildfly/openssl/wildfly-openssl-parent/1.0.4.Final/wildfly-openssl-parent-1.0.4.Final.pom
